@@ -34,6 +34,16 @@ iframe {
 .align-center {
   text-align: center;
 }
+.ec-cart-widget {
+  position: absolute;
+  right: 8px;
+  top: 3px;
+}
+
+.pg-1-1 {
+  position: relative;
+  display: flex;
+}
 
 .align-left {
   text-align: left !important;
@@ -188,6 +198,7 @@ a,
 
 .module-medium {
   padding: 75px 0px;
+  background-color: rgba(240, 240, 240, 0.281);
 }
 
 .holder-w {
@@ -1597,7 +1608,7 @@ Google map
 
 /* Content box */
 .content-box {
-  margin: 20px 0;
+  margin: 10px 20px;
   text-align: center;
 }
 
