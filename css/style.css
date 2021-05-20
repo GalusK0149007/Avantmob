@@ -2420,6 +2420,7 @@ Google map
 .widget-posts-body {
   margin-left: 40px;
   margin-right: 40px;
+  min-height: 100vh;
 }
 
 /* Search */
